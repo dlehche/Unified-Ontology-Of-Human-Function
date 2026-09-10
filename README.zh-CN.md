@@ -2,7 +2,7 @@
 
 ## 正式英文名称：Unified Ontology of Human Function
 
-[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 **正式简称：** UOHF  
 **当前权威总体框架：** UOHF Definition 2.1  
@@ -38,6 +38,16 @@
 ---
 
 ## 当前专题论文
+
+### 人体功能世界模型
+
+**通过任务、状态、行动与纵向变化对完整人体进行建模**
+
+Version 1.0 提出人体功能世界模型（HFWM），用于围绕同一个人统一表示内部与外部任务、任务需求、所需能力、当前能力、实际功能调用、证据、受治理行动和长期状态变化。UOHF 提供人体功能语义基础，HFWM 在不改变人体功能根定义的前提下进一步加入显式状态、时间、行动、转移、反馈和模型更新结构。
+
+- [Zenodo：10.5281/zenodo.22685308](https://zenodo.org/records/22685308)
+- 发布日期：**2026-09-10**
+- 许可：**CC BY-NC 4.0**
 
 ### 人体功能形式化与计算框架
 
@@ -110,6 +120,7 @@ UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体
 | 内容 | 用途 |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架 |
+| **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** | **围绕任务、能力、实际功能调用、行动与纵向变化建立完整人体世界模型** |
 | **[人体功能能力体系第一版](papers/capacity-system/README.zh-CN.md)** | **18项核心 + 104项具体能力、统一定义、来源与引用信息** |
 | [能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 18+104 第一版全文 |
 | [Capacity System — English full text](papers/capacity-system/source/en/README.md) | English Version 1.0 full paper |
@@ -131,6 +142,7 @@ UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体
 - **UOHF Definition 2.1 / 出版修订2.1.1**：当前权威总体框架，恢复内部与外部需求的完整范围。DOI：[10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)。
 - **“统一”专题论文 / 出版修订1.0.2**：完整人体概念统一与功能调用。DOI：[10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)。
 - **人体功能形式化框架 / Version 1.0**：能力、调用、需求有界可实现性、证据约束推理和动态更新。DOI：[10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)。
+- **人体功能世界模型 / Version 1.0**：围绕任务、需求、能力、功能调用、证据、受治理行动和纵向变化建立完整人体世界模型。DOI：[10.5281/zenodo.22685308](https://zenodo.org/records/22685308)。
 - **人体功能能力体系第一版 / Version 1.0**：18项核心与104项具体人体功能能力目录的公开仓库预印本。预留 DOI：`10.5281/zenodo.21975100`（待 Zenodo 正式发布）。
 
 UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总体框架下进一步建立特定科学层，不会静默替代根定义。
@@ -158,6 +170,8 @@ UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总
 ## 引用
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
+
+> Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 
 > Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: `10.5281/zenodo.21975100`.
 
