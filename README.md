@@ -2,7 +2,7 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
@@ -39,6 +39,16 @@ The public catalogue is a versioned scientific coordinate set, not a claim of pe
 ---
 
 ## Current focused publications
+
+### The Human Function World Model
+
+**Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change**
+
+This Version 1.0 preprint introduces the Human Function World Model (HFWM) as a whole-person framework for representing the same person across internal and external tasks, demand, required capacity, current capacity, actual functional engagement, evidence, governed action, and longitudinal state change. UOHF provides the human-function semantic foundation; HFWM adds explicit state, time, action, transition, feedback, and model-update structure while keeping human function as the organizing invariant.
+
+- [Zenodo: 10.5281/zenodo.22685308](https://zenodo.org/records/22685308)
+- Publication date: **2026-09-10**
+- License: **CC BY-NC 4.0**
 
 ### A Formal Framework for Human Function in UOHF
 
@@ -109,6 +119,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 | Resource | Purpose |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative overall framework |
+| **[Human Function World Model V1.0](https://zenodo.org/records/22685308)** | **Whole-person world-model framework across tasks, capacities, functional engagement, action and longitudinal change** |
 | **[Human Function Capacity System V1.0](papers/capacity-system/README.md)** | **18 core + 104 specific capacity catalogue, definitions, sources and citation metadata** |
 | [Capacity System — English full text](papers/capacity-system/source/en/README.md) | Complete English Version 1.0 paper |
 | [人体功能能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 第一版18项核心能力与104项具体能力全文 |
@@ -130,6 +141,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 - **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative overall framework, restoring the full internal-and-external-demand scope. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 - **Unification in UOHF / publication revision 1.0.2** — focused conceptual publication. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
 - **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+- **The Human Function World Model / Version 1.0** — whole-person world-model preprint centered on task, demand, capacity, functional engagement, evidence, governed action, and longitudinal change. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 - **The UOHF Human Function Capacity System / Version 1.0** — public repository preprint of the 18-core/104-specific human-function capacity catalogue. Reserved DOI: `10.5281/zenodo.21975100` (pending Zenodo publication).
 
 UOHF Definition 2.1 remains the current authoritative overall framework. Focused publications develop specific scientific layers under that framework and do not silently replace the root definition.
@@ -157,6 +169,8 @@ See [`COLLABORATION.md`](COLLABORATION.md). For research, interoperability, impl
 ## Citation
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
+
+> Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 
 > Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: `10.5281/zenodo.21975100`.
 
