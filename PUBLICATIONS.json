@@ -69,6 +69,18 @@
       "status": "focused-publication"
     },
     {
+      "id": "human-function-world-model-v1.0",
+      "title": "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change",
+      "frameworkVersion": "1.0",
+      "publicationRevision": "1.0",
+      "publicationDate": "2026-09-10",
+      "record": "https://zenodo.org/records/22685308",
+      "doi": "10.5281/zenodo.22685308",
+      "license": "CC-BY-NC-4.0",
+      "status": "focused-publication",
+      "relationToUohf": "builds-on-uohf-definition-2.1"
+    },
+    {
       "id": "uohf-human-function-capacity-system",
       "title": "The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities",
       "frameworkVersion": "1.0",
