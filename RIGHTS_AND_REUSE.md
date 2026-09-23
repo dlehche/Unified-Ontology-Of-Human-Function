@@ -13,11 +13,11 @@ Each publication is governed by the license and attribution conditions attached 
 - **UOHF Definition 2.1** — revision 2.1.1 — CC BY-NC 4.0 — [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
 - **Unification in the Unified Ontology of Human Function** — revision 1.0.2 — CC BY-NC 4.0 — [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 - **A Formal Framework for Human Function in UOHF** — Version 1.0 — CC BY-NC 4.0 — [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
-- **The UOHF Human Function Capacity System, Version 1.0** — CC BY-NC 4.0 — reserved DOI `10.5281/zenodo.21975100`; DOI registration occurs when the Zenodo record is published
+- **The UOHF Human Function Capacity System, Version 1.0** — CC BY-NC 4.0 — [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)
 
-The machine-readable status of each record is maintained in [`PUBLICATIONS.json`](PUBLICATIONS.json). Until a reserved DOI is registered, the GitHub source and explicit reserved-status metadata must not be described as an already registered Zenodo publication.
+The machine-readable status of each record is maintained in [`PUBLICATIONS.json`](PUBLICATIONS.json).
 
-各出版记录的机器可读状态见 [`PUBLICATIONS.json`](PUBLICATIONS.json)。预留 DOI 在 Zenodo 正式发布前不得被描述为已经注册完成的正式 DOI。
+各出版记录的机器可读状态见 [`PUBLICATIONS.json`](PUBLICATIONS.json)。
 
 ## 2. Citation and linking / 引用与链接
 
