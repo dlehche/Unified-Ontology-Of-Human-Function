@@ -4,11 +4,11 @@
 
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
-**Version:** 1.0 repository preprint  
+**Version:** 1.0  
 **First public repository date:** 17 August 2026  
-**Reserved Zenodo DOI:** `10.5281/zenodo.21975100` — reserved; registration occurs when the Zenodo upload is published  
+**Zenodo DOI:** [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
-**Status:** public repository preprint; Zenodo archival pending; it does not replace the current authoritative UOHF Definition 2.1
+**Status:** published Version 1.0 capacity-system paper with a Zenodo archival record; it does not replace the current authoritative UOHF Definition 2.1
 
 ## Read
 
@@ -60,7 +60,7 @@ This publication openly releases the capacity names, hierarchy, unified definiti
 
 UOHF Definition 2.1 remains the current authoritative overall framework. The capacity-system publication provides the Version 1.0 public coordinate set for the question: **what stable human functional capacities does the whole person have?**
 
-This repository preprint does not claim external multidisciplinary consensus, completed clinical-outcome validation, completed measurement/psychometric validation for every capacity, or complete production-runtime coverage. Those are separate empirical and engineering milestones.
+This Version 1.0 publication does not claim external multidisciplinary consensus, completed clinical-outcome validation, completed measurement/psychometric validation for every capacity, or complete production-runtime coverage. Those are separate empirical and engineering milestones.
 
 ## Rights and reuse
 
@@ -68,6 +68,6 @@ The paper is licensed under **CC BY-NC 4.0**. Scholarly citation and non-commerc
 
 ## Suggested citation
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: 10.5281/zenodo.21975100.
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
 
-> DOI note: `10.5281/zenodo.21975100` is currently reserved and becomes a registered DOI when the Zenodo record is published.
+> Zenodo record: https://zenodo.org/records/22852017
