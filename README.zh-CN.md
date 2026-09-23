@@ -21,16 +21,16 @@
 
 ---
 
-## 最新仓库预印本：人体功能能力体系第一版
+## 最新 UOHF 出版物：人体功能能力体系第一版
 
 ### 18项核心人体功能能力 + 104项具体人体功能能力
 
-第一版能力体系仓库预印本把 UOHF 的人体功能能力目录作为一个**公开、可引用、可版本化的科学对象**发布：统一定义18项核心人体功能能力及其下104项具体人体功能能力，每项能力均以整个人为主体，并绑定可追溯的科学或专业来源。论文同时公开目录构建方法、关键相邻能力边界、版本规则以及明确的公开/不公开边界。
+第一版能力体系论文把 UOHF 的人体功能能力目录作为一个**公开、可引用、可版本化的科学对象**发布：统一定义18项核心人体功能能力及其下104项具体人体功能能力，每项能力均以整个人为主体，并绑定可追溯的科学或专业来源。论文同时公开目录构建方法、关键相邻能力边界、版本规则以及明确的公开/不公开边界。
 
 - **[论文概览](papers/capacity-system/README.zh-CN.md)**
 - **[中文完整论文](papers/capacity-system/source/zh/README.md)**
 - **[English full paper](papers/capacity-system/source/en/README.md)**
-- 预留 Zenodo DOI：`10.5281/zenodo.21975100`——Zenodo 正式发布后注册生效
+- Zenodo：[10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)
 - 许可：**CC BY-NC 4.0**
 
 第一版目录不是“人体功能已经永远穷尽”的声明，而是一套可持续修订的科学坐标。“具体能力”是便于公开阅读的总称，正式细粒度本体类型仍为相应 `CORE_CAPACITY` 下的 `SUBCAPACITY` 与 `CAPACITY_COMPONENT`。论文不公开完整任务—能力需求矩阵、解剖/生理过程实现网络、完整评估与干预映射、个体推理规则、决策权重、生产 payload 或真实用户运行数据。
@@ -143,7 +143,7 @@ UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体
 - **“统一”专题论文 / 出版修订1.0.2**：完整人体概念统一与功能调用。DOI：[10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)。
 - **人体功能形式化框架 / Version 1.0**：能力、调用、需求有界可实现性、证据约束推理和动态更新。DOI：[10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)。
 - **人体功能世界模型 / Version 1.0**：围绕任务、需求、能力、功能调用、证据、受治理行动和纵向变化建立完整人体世界模型。DOI：[10.5281/zenodo.22685308](https://zenodo.org/records/22685308)。
-- **人体功能能力体系第一版 / Version 1.0**：18项核心与104项具体人体功能能力目录的公开仓库预印本。预留 DOI：`10.5281/zenodo.21975100`（待 Zenodo 正式发布）。
+- **人体功能能力体系第一版 / Version 1.0**：18项核心与104项具体人体功能能力目录的 Zenodo 正式归档出版物。DOI：[10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)。
 
 UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总体框架下进一步建立特定科学层，不会静默替代根定义。
 
@@ -173,7 +173,7 @@ UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总
 
 > Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: `10.5281/zenodo.21975100`.
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI：[10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)。
 
 各篇独立引用元数据维护在对应论文目录中。仓库总体引用信息仍维护在 [`CITATION.cff`](CITATION.cff)。
 
