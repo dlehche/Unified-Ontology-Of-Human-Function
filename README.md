@@ -22,16 +22,16 @@
 
 ---
 
-## Latest repository preprint: the Version 1.0 human-function capacity system
+## Latest UOHF publication: the Version 1.0 human-function capacity system
 
 ### 18 core human functional capacities + 104 specific human functional capacities
 
-The Version 1.0 capacity-system repository preprint makes the UOHF human-function capacity catalogue a public, citable scientific object. It defines **18 core capacities and 104 specific capacities**, each at the whole-person level and with traceable scientific or professional source support. It also publishes the catalogue-construction method, adjacent-capacity boundaries, version rule, and explicit public/non-public boundary.
+The Version 1.0 capacity-system publication makes the UOHF human-function capacity catalogue a public, citable scientific object. It defines **18 core capacities and 104 specific capacities**, each at the whole-person level and with traceable scientific or professional source support. It also publishes the catalogue-construction method, adjacent-capacity boundaries, version rule, and explicit public/non-public boundary.
 
 - **[Publication overview](papers/capacity-system/README.md)**
 - **[Complete English paper](papers/capacity-system/source/en/README.md)**
 - **[中文完整论文](papers/capacity-system/source/zh/README.md)**
-- Reserved Zenodo DOI: `10.5281/zenodo.21975100` — registration occurs when the Zenodo record is published
+- Zenodo: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)
 - License: **CC BY-NC 4.0**
 
 The public catalogue is a versioned scientific coordinate set, not a claim of permanent exhaustiveness. “Specific capacity” is a public-reading umbrella term; the formal fine-grained ontology types remain `SUBCAPACITY` and `CAPACITY_COMPONENT` under their respective `CORE_CAPACITY`. The complete demand-to-capacity matrix, anatomical/physiological realization network, assessment/intervention mappings, person-specific reasoning rules, decision weights, production payloads, and real-user operational data are not released by this publication.
@@ -142,7 +142,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 - **Unification in UOHF / publication revision 1.0.2** — focused conceptual publication. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
 - **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
 - **The Human Function World Model / Version 1.0** — whole-person world-model preprint centered on task, demand, capacity, functional engagement, evidence, governed action, and longitudinal change. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
-- **The UOHF Human Function Capacity System / Version 1.0** — public repository preprint of the 18-core/104-specific human-function capacity catalogue. Reserved DOI: `10.5281/zenodo.21975100` (pending Zenodo publication).
+- **The UOHF Human Function Capacity System / Version 1.0** — Zenodo-archived publication of the 18-core/104-specific human-function capacity catalogue. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
 
 UOHF Definition 2.1 remains the current authoritative overall framework. Focused publications develop specific scientific layers under that framework and do not silently replace the root definition.
 
@@ -172,7 +172,7 @@ See [`COLLABORATION.md`](COLLABORATION.md). For research, interoperability, impl
 
 > Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: `10.5281/zenodo.21975100`.
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
 
 Paper-specific citation metadata is maintained in each paper directory. Repository-level citation metadata remains in [`CITATION.cff`](CITATION.cff).
 
