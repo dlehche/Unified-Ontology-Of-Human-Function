@@ -4,11 +4,11 @@
 
 **作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
-**版本：** 第一版仓库预印本  
+**版本：** 第一版（Version 1.0）  
 **首次仓库公开日期：** 2026年8月17日  
-**预留 Zenodo DOI：** `10.5281/zenodo.21975100`——当前为预留状态，Zenodo 正式发布后注册生效  
+**Zenodo DOI：** [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
 **许可：** Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）  
-**状态：** 公开仓库预印本；Zenodo 归档待发布；不替代当前权威总体框架 UOHF Definition 2.1
+**状态：** 第一版论文已形成 Zenodo 正式归档记录；不替代当前权威总体框架 UOHF Definition 2.1
 
 ## 阅读
 
@@ -20,7 +20,7 @@
 
 ## 这篇预印本公开了什么
 
-这篇第一版仓库预印本把 UOHF 的人体功能能力目录作为一个可公开引用的科学对象公开：**18项核心人体功能能力，以及其下104项具体人体功能能力**。每项能力均以整个人为主体定义，具有可追溯来源，并明确与身体结构、生理过程、任务、单次表现、测量结果和状态分开。
+这篇第一版论文把 UOHF 的人体功能能力目录作为一个可公开引用的科学对象公开：**18项核心人体功能能力，以及其下104项具体人体功能能力**。每项能力均以整个人为主体定义，具有可追溯来源，并明确与身体结构、生理过程、任务、单次表现、测量结果和状态分开。
 
 目录不是先规定“必须有18项、104项”再向里填内容，而是通过概念分析、类型边界审计、外部科学校准、来源追溯、相邻能力边界审计和完整性压力测试形成。因此，**18 + 104 是第一版准入和排除规则得到的结果，不是为了结构对称人为凑出的数量。**
 
@@ -62,7 +62,7 @@
 
 UOHF Definition 2.1 仍然是当前权威总体框架。这篇能力体系论文回答的是更具体的问题：**完整的人究竟具有哪些可以稳定定义、独立取证并跨任务复用的人体功能能力？**
 
-本仓库预印本不宣称已经形成外部多学科专家共识、完成临床结局验证、完成每项能力的测量学/心理测量学验证，或完成104项细粒度对象的生产Runtime全链覆盖。这些属于后续独立实证与工程发布里程碑。
+本第一版论文不宣称已经形成外部多学科专家共识、完成临床结局验证、完成每项能力的测量学/心理测量学验证，或完成104项细粒度对象的生产Runtime全链覆盖。这些属于后续独立实证与工程发布里程碑。
 
 ## 权利与复用
 
@@ -70,6 +70,6 @@ UOHF Definition 2.1 仍然是当前权威总体框架。这篇能力体系论文
 
 ## 建议引用
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Repository preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: 10.5281/zenodo.21975100.
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
 
-> DOI 状态说明：`10.5281/zenodo.21975100` 当前为预留 DOI，待 Zenodo 记录正式发布后注册生效。
+> Zenodo 记录：https://zenodo.org/records/22852017
