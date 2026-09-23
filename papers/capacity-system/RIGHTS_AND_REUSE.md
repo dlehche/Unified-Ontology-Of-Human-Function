@@ -10,7 +10,7 @@ Commercial use of copyright-protected material from this publication is not lice
 
 The public Version 1.0 release includes capacity names, hierarchy, unified definitions, key conceptual boundaries, source bases, and version rules. It does not grant access or reuse rights to unpublished production ontology assets, complete demand-capacity matrices, structural/process realization networks, assessment or intervention mappings, person-specific reasoning rules, decision weights, production payloads, private datasets, or brand marks.
 
-Reserved Zenodo DOI: `10.5281/zenodo.21975100`. The DOI becomes registered when the corresponding Zenodo upload is published.
+Zenodo DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
 
 For commercial permissions or institutional reuse questions: **dlehche@gmail.com**.
 
@@ -28,6 +28,6 @@ For commercial permissions or institutional reuse questions: **dlehche@gmail.com
 
 第一版公开范围包括能力名称、层级、统一定义、关键概念边界、来源依据和版本规则；不因此开放未公开的生产本体资产、完整任务—能力需求矩阵、结构/过程实现网络、评估与干预映射、个体推理规则、决策权重、生产 payload、私有数据集或品牌标识。
 
-预留 Zenodo DOI：`10.5281/zenodo.21975100`。对应 Zenodo 记录正式发布后 DOI 注册生效。
+Zenodo DOI：[10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)。
 
 商业授权或机构复用咨询：**dlehche@gmail.com**。
