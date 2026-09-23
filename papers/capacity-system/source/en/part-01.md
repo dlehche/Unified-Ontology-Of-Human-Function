@@ -4,9 +4,9 @@
 > **Unified Definitions of 18 Core and 104 Specific Human Functional Capacities**  
 > Author: Lei Che｜MoveTips Technology (Beijing) Co., Ltd.  
 > First public repository date: 17 August 2026  
-> Reserved Zenodo DOI: `10.5281/zenodo.21975100` (registered when the Zenodo record is published)  
+> Zenodo DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
 > License: **CC BY-NC 4.0** — attribution and non-commercial reuse are permitted; commercial use requires separate permission where copyright permission is required.
-> Status: **public repository preprint; Zenodo archival pending.** The reserved DOI is not yet registered.
+> Status: **Version 1.0 publication; Zenodo archival record published.**
 
 [Paper overview and citation](../../README.md) · [中文全文](../zh/README.md)
 
