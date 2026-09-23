@@ -13,7 +13,7 @@ This directory preserves the public version history of the Unified Ontology of H
 | **UOHF Definition 2.1** | **2.1.1** | **Current authoritative overall framework / 当前权威总体框架** | CC BY-NC 4.0 | [English](../README.md) | [中文](../UOHF_DEFINITION_ZH.md) | [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406) |
 | **Unification in UOHF** | **1.0.2** | Focused conceptual publication / 专题概念论文 | CC BY-NC 4.0 | [English](../papers/unification/UOHF_Unification_EN_V1.0.2.md) | [中文](../papers/unification/UOHF_Unification_ZH_V1.0.2.md) | [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694) |
 | **A Formal Framework for Human Function in UOHF** | **1.0** | Focused formal/computational publication / 专题形式化与计算论文 | CC BY-NC 4.0 | [English](../papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | [中文](../papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599) |
-| **The UOHF Human Function Capacity System** | **1.0** | **Repository preprint; Zenodo pending / 仓库预印本；Zenodo待发布** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | `10.5281/zenodo.21975100` *(reserved; not yet registered / 预留，尚未注册)* |
+| **The UOHF Human Function Capacity System** | **1.0** | **Zenodo-archived focused publication / Zenodo 已归档专题出版物** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017) |
 
 ## Governance rule / 版本治理规则
 
@@ -21,7 +21,7 @@ This directory preserves the public version history of the Unified Ontology of H
 - Focused publications may have their own Version 1.0 without replacing UOHF Definition 2.1.
 - Publication revisions identify released or revised publication artifacts.
 - Historical records are preserved; semantic changes should be made through explicit new versions rather than silent rewriting.
-- The capacity-system Version 1.0 freezes the public 18-core/104-fine-grained names, hierarchy, ontology-type boundaries, unified definitions, and source bindings as a repository-preprint scholarly snapshot.
+- The capacity-system Version 1.0 freezes the public 18-core/104-fine-grained names, hierarchy, ontology-type boundaries, unified definitions, and source bindings as a Version 1.0 scholarly snapshot.
 - Inclusion in that scholarly snapshot does not assert production lifecycle activation, relation-endpoint coverage, assessment/intervention mapping, or Runtime release.
 
 - 权威总体框架版本标识 UOHF 整体概念架构。
