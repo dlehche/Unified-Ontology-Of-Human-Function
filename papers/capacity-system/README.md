@@ -6,7 +6,7 @@
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Version:** 1.0  
 **First public repository date:** 17 August 2026  
-**Zenodo DOI:** [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
+**Zenodo DOI:** [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 **Status:** published Version 1.0 capacity-system paper with a Zenodo archival record; it does not replace the current authoritative UOHF Definition 2.1
 
@@ -68,6 +68,6 @@ The paper is licensed under **CC BY-NC 4.0**. Scholarly citation and non-commerc
 
 ## Suggested citation
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100).
 
-> Zenodo record: https://zenodo.org/records/22852017
+> Zenodo record: https://zenodo.org/records/21975100

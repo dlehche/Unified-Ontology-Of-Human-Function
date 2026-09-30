@@ -13,7 +13,7 @@ This directory preserves the public version history of the Unified Ontology of H
 | **UOHF Definition 2.1** | **2.1.1** | **Current authoritative overall framework / 当前权威总体框架** | CC BY-NC 4.0 | [English](../README.md) | [中文](../UOHF_DEFINITION_ZH.md) | [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406) |
 | **Unification in UOHF** | **1.0.2** | Focused conceptual publication / 专题概念论文 | CC BY-NC 4.0 | [English](../papers/unification/UOHF_Unification_EN_V1.0.2.md) | [中文](../papers/unification/UOHF_Unification_ZH_V1.0.2.md) | [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694) |
 | **A Formal Framework for Human Function in UOHF** | **1.0** | Focused formal/computational publication / 专题形式化与计算论文 | CC BY-NC 4.0 | [English](../papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | [中文](../papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599) |
-| **The UOHF Human Function Capacity System** | **1.0** | **Zenodo-archived focused publication / Zenodo 已归档专题出版物** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017) |
+| **The UOHF Human Function Capacity System** | **1.0** | **Zenodo-archived focused publication / Zenodo 已归档专题出版物** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100) |
 
 ## Governance rule / 版本治理规则
 

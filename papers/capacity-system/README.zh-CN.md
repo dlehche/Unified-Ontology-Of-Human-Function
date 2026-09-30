@@ -6,7 +6,7 @@
 **机构：** 木梯科技（北京）有限公司  
 **版本：** 第一版（Version 1.0）  
 **首次仓库公开日期：** 2026年8月17日  
-**Zenodo DOI：** [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
+**Zenodo DOI：** [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)  
 **许可：** Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）  
 **状态：** 第一版论文已形成 Zenodo 正式归档记录；不替代当前权威总体框架 UOHF Definition 2.1
 
@@ -70,6 +70,6 @@ UOHF Definition 2.1 仍然是当前权威总体框架。这篇能力体系论文
 
 ## 建议引用
 
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017).
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100).
 
-> Zenodo 记录：https://zenodo.org/records/22852017
+> Zenodo 记录：https://zenodo.org/records/21975100

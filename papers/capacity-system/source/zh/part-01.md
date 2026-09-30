@@ -4,7 +4,7 @@
 > **UOHF Human Function Capacity System, Version 1.0**  
 > 作者：Lei Che｜木梯科技（北京）有限公司  
 > 首次仓库公开日期：2026-08-17  
-> Zenodo DOI：[10.5281/zenodo.22852017](https://doi.org/10.5281/zenodo.22852017)  
+> Zenodo DOI：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)  
 > 许可：**CC BY-NC 4.0**——允许署名引用与非商业复用；商业使用须另行获得许可。
 > 状态：**第一版论文已形成 Zenodo 正式归档记录。**
 
