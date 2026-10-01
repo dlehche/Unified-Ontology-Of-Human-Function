@@ -4,6 +4,9 @@
 
 [English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
+> **产品里程碑 · 2026-10-02：** [全球首个基于人体功能统一本体（UOHF）、以“完整的人”为持续建模对象的人体功能世界模型，正式灰度上线](announcements/2026-10-02-movetips-hfwm-gray-release.md) · [www.movetips.cn](https://www.movetips.cn/)
+
+
 **正式简称：** UOHF  
 **当前权威总体框架：** UOHF Definition 2.1  
 **当前权威出版修订版本：** 2.1.1  
