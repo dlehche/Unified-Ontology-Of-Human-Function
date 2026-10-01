@@ -4,6 +4,9 @@
 
 [中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
+> **Product milestone · 2026-10-02:** [MoveTips Human Function World Model enters gray release](announcements/2026-10-02-movetips-hfwm-gray-release.md) · [www.movetips.cn](https://www.movetips.cn/)
+
+
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
 **Current authoritative framework:** UOHF Definition 2.1  
