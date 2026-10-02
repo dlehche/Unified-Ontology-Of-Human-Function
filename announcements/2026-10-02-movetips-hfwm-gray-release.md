@@ -2,6 +2,8 @@
 
 **发布日期：2026-10-02**
 
+**English announcement:** [The World’s First Human Function World Model Built on UOHF, with the Whole Person as the Persistent Modeling Object, Enters Gray Release](2026-10-02-movetips-hfwm-gray-release.en.md)
+
 木梯人体功能（MoveTips Human Function）现已正式进入产品灰度运行阶段。
 
 这是 UOHF 从人体功能根定义、统一语义、本体关系、形式化框架与人体功能世界模型，进一步进入真实产品运行的重要里程碑。
