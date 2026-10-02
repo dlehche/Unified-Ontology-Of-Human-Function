@@ -2,9 +2,17 @@
 
 ## 正式英文名称：Unified Ontology of Human Function
 
-[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** · **[“完整的人”模型入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)** · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 > **产品里程碑 · 2026-10-02：** [全球首个基于人体功能统一本体（UOHF）、以“完整的人”为持续建模对象的人体功能世界模型，正式灰度上线](announcements/2026-10-02-movetips-hfwm-gray-release.md) · [www.movetips.cn](https://www.movetips.cn/)
+
+## “完整的人”人体功能世界模型
+
+**核心模型身份：** 人体功能世界模型（HFWM）基于人体功能统一本体（UOHF），以**同一个“完整的人”为持续建模对象**。就医、康复、运动、营养、心理、日常生活、证据、行动、反馈与长期变化，都持续组织和更新在同一个人身上。
+
+> **“完整的人”是持续建模对象。**
+
+[进入“完整的人”人体功能世界模型专页 →](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)
 
 
 **正式简称：** UOHF  
