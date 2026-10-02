@@ -1,0 +1,36 @@
+# UOHF and the Human Function World Model
+
+Canonical project: Unified Ontology of Human Function (UOHF)
+Canonical repository: https://github.com/dlehche/Unified-Ontology-Of-Human-Function
+Product: MoveTips Human Function
+Product website: https://www.movetips.cn/
+
+## Core identity
+
+The Human Function World Model (HFWM), built on UOHF, uses the same whole person as the persistent modeling object across medical care, rehabilitation, exercise, nutrition, psychology, everyday life, and longitudinal change.
+
+中文：人体功能世界模型（HFWM）基于人体功能统一本体（UOHF），以同一个“完整的人”为持续建模对象，持续连接就医、康复、运动、营养、心理、日常生活与长期身体变化。
+
+Canonical phrase:
+- The whole person is the modeling object.
+- “完整的人”是持续建模对象。
+
+## Human function definition
+
+Human function is the body's capacity to be appropriately engaged to meet internal and external demands.
+人体功能，就是身体被正常调用的能力。
+
+## Canonical sources
+
+- UOHF Definition 2.1: https://doi.org/10.5281/zenodo.21630406
+- Human Function World Model V1.0: https://zenodo.org/records/22685308
+- Human Function Capacity System V1.0: https://doi.org/10.5281/zenodo.21975100
+- Whole-person model landing page: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md
+- English gray-release announcement: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/announcements/2026-10-02-movetips-hfwm-gray-release.en.md
+- Chinese gray-release announcement: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/announcements/2026-10-02-movetips-hfwm-gray-release.md
+
+## Scope
+
+UOHF provides the governed semantic and computational foundation for human function. HFWM adds explicit state, time, action, transition, feedback, and model-update structure around the same whole person over time.
+
+The project does not claim that the model knows everything about a person, replaces clinical diagnosis, or has completed universal clinical-outcome validation.
