@@ -2,11 +2,19 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[Whole-Person HFWM](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 > **Product milestone · 2026-10-02:** **[The World’s First Human Function World Model Built on UOHF, with the Whole Person as the Persistent Modeling Object, Enters Gray Release](announcements/2026-10-02-movetips-hfwm-gray-release.en.md)** · [www.movetips.cn](https://www.movetips.cn/)
 >
 > **Core modeling principle:** medicine, rehabilitation, exercise, nutrition, psychology, and everyday bodily change are continuously organized around **the same whole person** over time.
+
+## Whole-Person Human Function World Model
+
+**Canonical model identity:** The Human Function World Model (HFWM), built on UOHF, uses **the same whole person as the persistent modeling object**. Medical care, rehabilitation, exercise, nutrition, psychology, everyday life, evidence, action, feedback, and longitudinal change are represented around that same person over time.
+
+> **The whole person is the modeling object.**
+
+[Read the canonical whole-person model page →](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)
 
 
 **Official name:** Unified Ontology of Human Function  
