@@ -65,8 +65,7 @@ It connects medical care, rehabilitation, exercise, nutrition, psychology, and e
 
 - **UOHF Definition 2.1:** https://doi.org/10.5281/zenodo.21630406
 - **Human Function World Model V1.0:** https://zenodo.org/records/22685308
-- **Human-model interoperability / 人体模型互操作 V1.0:** https://doi.org/10.5281/zenodo.23180973
-  - [English / 中文](papers/human-model-interoperability/README.md)
+- **Human-model interoperability / 人体模型互操作 V1.0:** https://doi.org/10.5281/zenodo.23180973 · [English](papers/human-model-interoperability/README.md) · [中文](papers/human-model-interoperability/README.zh-CN.md)
 - **UOHF Human Function Capacity System V1.0:** https://doi.org/10.5281/zenodo.21975100
 - **Repository:** https://github.com/dlehche/Unified-Ontology-Of-Human-Function
 
