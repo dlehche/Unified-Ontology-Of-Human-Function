@@ -175,3 +175,83 @@ Remove A1, or remove its valid task-alignment rule, and the adequacy claim no lo
 When O2 shows improvement with added support, a new context is recorded. The supported change is assisted performance; it does not retrospectively prove that the first difficulty had a particular cause or that bodily capacity increased. A medical forecast remains on its own horizon. A new, applicable medical restriction would revise the permitted action set without having to turn the focal capacity judgment into PROBLEM. The same person is maintained across these different objects and updates.
 
 # 8. Time, authority and the meaning of change
+HFWM separates bodily change, measurement, revision of knowledge and model evolution. Observation time, retrospective window, ingestion time and inference or confirmation time have different meanings. A late-arriving assessment can support a revised account of an earlier period without moving the biological event to the upload date. The previously confirmed report remains available, linked to a subsequent correction rather than silently overwritten.\[7\]
+
+An algorithm change applied to the same stored signal can revise an estimate without establishing bodily change. Dependency declarations identify which current judgments require requalification. A compatible module replacement preserves the meaning and guarantees relied on by its consumers, while changed outputs still require review. If meaning, uncertainty, input assumptions or timing changes, the contract version and affected composition must be reconsidered.
+
+Action eligibility is distinct from choosing the most attractive action. Necessary safety, consent, authority, intended-use evidence and practical-feasibility conditions must be met. A forecast of an outcome is not automatically evidence for the effect of changing an action. Plans are not executed interventions. Common semantics likewise do not authorize unrestricted sharing of personal data: shared model governance can coexist with regional data handling and purpose-limited exchange.\[7\]
+
+A model upgrade is a further kind of change. A replacement can preserve the meaning of its output while improving precision; it can also change its input conditions, uncertainty or output construct. The former still requires review of affected downstream judgments. The latter needs an explicit contract or semantic migration rather than a silent substitution. Historical reports continue to show the source and model versions used at the time. Preserving an interface therefore does not mean freezing all future science or promising identical values for every possible input.\[7\]
+
+Governance also determines what is shared. Common model definitions and exchange rules do not imply a global repository of unrestricted personal data. Each exchange has a person, purpose, recipient and minimal necessary content. Person-level state must remain isolated even when two individuals use the same model definition. These are architecture requirements; legal compliance, security and regional deployment need their own review and are not established by the conceptual model.
+
+# 9. What would count as evidence for the proposal?
+
+The primary hypothesis is that explicit demand–capacity–engagement relations improve the validity and usefulness of cross-model interpretation beyond strong alternatives given the same evidence. The comparison must not confuse additional data, expert attention or more elaborate prose with an architectural benefit. An equally expressive alternative should be allowed to succeed; the claim concerns testable behavior rather than exclusive ownership of a representation.
+
+Evaluation should separately examine semantic conformance, measurement and construct validity, combined computation, judgment and prediction, and service outcomes or user understanding. V3 and COSMIN provide relevant measurement-validation distinctions, but neither establishes validity for the entire model network. For each intended use, the relevant evidence must be specified independently.\[17,18\]
+
+Case labels should be adjudicated from independent assessment evidence and explicit conditions, not by agreement with HFWM’s own outputs. Test both warranted positive judgments and appropriate uncertainty. Relevant errors include unsupported transfer between tasks, treating improved assistance as improved capacity, counting returned forecasts as independent evidence, or confusing algorithm failure with personal disability. Measurement and judgment errors can be assessed before any claim of clinical benefit.
+
+A prediction study needs person- and time-appropriate separation, endpoint definitions, calibration and distribution-shift checks. An intervention study needs evidence addressing the action effect, not only prediction accuracy. Model-replacement studies should examine affected downstream interpretations as well as individual module performance. User evaluation should ask whether people can explain what is known, what remains uncertain and why a next step is proposed. These are planned research requirements, not results reported here.
+
+Three contrasts sharpen the research question. First, compare a record that merely places a test and a task together with one that explicitly qualifies whether the test supports that demand. Second, compare a general performance interpretation with one that requires distinct capacity and actual-process support. Third, compare indiscriminate recalculation with dependency-based requalification after a model or condition changes. A well-designed alternative may implement all three. In that event, the study should assess equivalence or differences in cost and reproducibility, not redefine success to favor the HFWM name.
+
+The strongest evidence would include both warranted conclusions and justified restraint. A system that always returns unknown can avoid some false claims while failing the person; a system that fills every field can conceal unsupported inferences. Evaluation should therefore count missed supported conclusions, unsupported conclusions, retained valid partial results and accurately explained gaps. Expert disagreement and uncertain reference judgments should remain visible. The source’s acceptance scenarios provide design targets, but an empirical study must supply its actual inputs, versions, outcomes and independent adjudication.\[7\]
+
+# 10. Limitations and conclusion
+
+This manuscript specifies an architecture and interprets hypothetical cases. It does not supply calibrated rules for every capacity, demonstrate integration of arbitrary external models or establish comparative benefit. The 18/104 catalogue, the source design requirements and individual data sufficiency are distinct maturity claims. A common functional coordinate also cannot substitute for personal values, access to care, social opportunity or professional judgment.
+
+The architecture leaves domain equations, parameters, measurement tools and comparison criteria to qualified implementations. A common interface can make assumptions inspectable without making them true. Its scientific value therefore depends on both the validity of those components and the validity of their combined use; neither a catalogue nor a consistent data structure establishes that result.
+
+Whole-person modeling need not replace specialized human models. It can preserve their domain meanings while making explicit how qualified contributions support the same person’s demands, capacities, actual engagement and change. UOHF supplies a semantic foundation; HFWM specifies coordination, evidence and updating responsibilities; domain models supply their own science. The proposed public protocol should be judged by whether these relations produce valid, useful and reproducible interpretation—not by the breadth of its name.
+
+# Declarations
+
+**Study and data scope.** This manuscript presents a conceptual or technical architecture and explicitly hypothetical examples. No new participant dataset, executed benchmark, clinical evaluation or production-system test is reported. No patient-level performance or benefit is inferred from the illustrations. There is no new empirical dataset or executable implementation accompanying this preprint.
+
+**Source basis and availability.** Public UOHF/HFWM definitions, formal framework, world-model descriptions, capacity-system materials, and the external standards and literature cited in this manuscript constitute the source basis for the paper. The explanatory figure and case identifiers are manuscript illustrations, not production objects or evidence of an implemented integration.
+
+**Related work.** This full-length preprint develops the same UOHF/HFWM research program as the cited public framework publications. Any later journal version should identify this preprint and disclose substantive overlap to the receiving editor.
+
+**Generative AI assistance.** ChatGPT assisted with source comparison, literature checking, drafting, language editing and preparation of the document and explanatory figure. AI-generated text and diagrams are not research evidence; responsibility for the published content remains with the named author.
+
+# References
+
+1\. Laubenbacher R, Mehrad B, Shmulevich I, et al. Digital twins in medicine. *Nat Comput Sci.* 2024;4:184–191. doi:10.1038/s43588-024-00607-6.
+
+2\. Little EG, Rogova GL. Designing ontologies for higher level fusion. *Information Fusion.* 2009;10(1):70–82. doi:10.1016/j.inffus.2008.05.006.
+
+3\. Smirnov A, Levashova T, Shilov N. Patterns for context-based knowledge fusion in decision support systems. *Information Fusion.* 2015;21:114–129. doi:10.1016/j.inffus.2013.10.010.
+
+4\. Che L. UOHF Definition 2.1: Unified Ontology of Human Function. Version 2.1.1. Repository publication; 2026. doi:10.5281/zenodo.21630406. Author-maintained definition and version record: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/README.md) (accessed 6 October 2026).
+
+5\. Che L. A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support. Version 1.0. Repository preprint; 2026. doi:10.5281/zenodo.21721599. Full-text source index: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) (accessed 6 October 2026).
+
+6\. Che L. The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change. Version 1.0. Repository preprint; 2026. doi:10.5281/zenodo.22685308. Author-maintained model statement: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) (accessed 6 October 2026).
+
+7\. Che L. Human Function World Model: Computational Architecture, Capacity Standards and Engagement Standards. Technical design manuscript. 30 September 2026.
+
+8\. Che L. The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities. Repository publication; 2026. doi:10.5281/zenodo.21975100. Catalogue overview and source index: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/papers/capacity-system/README.md) (accessed 6 October 2026).
+
+9\. World Health Organization. Towards a Common Language for Functioning, Disability and Health: ICF. Geneva: WHO; 2002. pp. 2, 11–13. [Public source](https://cdn.who.int/media/docs/default-source/classification/icf/icfbeginnersguide.pdf) (accessed 6 October 2026).
+
+10\. CellML. CellML 2.0: Normative Specification. [Public source](https://www.cellml.org/cellml/2.0) (accessed 6 October 2026).
+
+11\. SBML. SBML Level 3 Version 1: Hierarchical Model Composition (comp) package. [Public source](https://sbml.org/documents/specifications/level-3/version-1/comp/) (accessed 6 October 2026).
+
+12\. Modelica Association. Functional Mock-up Interface Specification. Version 3.0.2. [Public source](https://fmi-standard.org/docs/3.0.2/) (accessed 6 October 2026).
+
+13\. World Wide Web Consortium. PROV-O: The PROV Ontology. W3C Recommendation. 30 April 2013. [Public source](https://www.w3.org/TR/2013/REC-prov-o-20130430/) (accessed 6 October 2026).
+
+14\. The Unified Code for Units of Measure. UCUM specification. [Public source](https://ucum.org/ucum) (accessed 6 October 2026).
+
+15\. Shahidi N, Pan M, Safaei S, et al. Hierarchical semantic composition of biosimulation models using bond graphs. *PLoS Comput Biol.* 2021;17(5):e1008859. doi:10.1371/journal.pcbi.1008859.
+
+16\. HL7 International. FHIR Release 5, version 5.0.0: RiskAssessment. [Public source](https://hl7.org/fhir/R5/riskassessment.html) (accessed 6 October 2026).
+
+17\. Goldsack JC, Coravos A, Bakker JP, et al. Verification, analytical validation, and clinical validation (V3): the foundation of determining fit-for-purpose for Biometric Monitoring Technologies (BioMeTs). *npj Digit Med.* 2020;3:55. doi:10.1038/s41746-020-0260-4.
+
+18\. COSMIN. COSMIN Taxonomy of Measurement Properties. [Public source](https://www.cosmin.nl/tools/cosmin-taxonomy-measurement-properties/) (accessed 6 October 2026).
+
