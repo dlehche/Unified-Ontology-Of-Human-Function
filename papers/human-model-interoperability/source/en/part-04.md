@@ -1,0 +1,39 @@
+# 7. A complete hypothetical connection: descending stairs
+
+The following design case extends the source manuscript’s stair-descent example. It is not a participant record. All measurement validity, task-transfer rules and process-comparison rules stated as sufficient are explicit assumptions for this case; no clinical threshold, diagnosis or device performance is supplied. The purpose is to show exactly which contributions make a judgment possible and which do not.\[7\]
+
+The person’s goal is to descend a familiar flight of stairs under specified step geometry, pace, carried load and assistance conditions. The focal capacity is braking-force output; this is one component of a task that can involve other capacities. A judgment about this component will not certify the entire descent. Table 4 gives the source records and their distinct roles.
+
+**Table 4. Case inputs, retained identities and permitted uses.**
+
+| **Illustrative record** | **Source contribution and conditions**                                                                                                | **Permitted role**                                                                        |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Task T1                 | A governed task description records geometry, pace, load, phase, assistance and successful completion conditions.                     | Defines the focal braking requirement; does not show personal insufficiency.              |
+| Assessment A1           | An independently obtained assessment supports braking capacity under an explicitly applicable interpretation and task-alignment rule. | Assumed to support adequacy for the focal T1 requirement.                                 |
+| Process O1              | Separate task-process observations document braking organization during T1; matching and an approved interpretation rule are assumed. | Assumed to support a problem in actual engagement despite adequate focal capacity.        |
+| Experience X1           | The person reports discomfort and effort during T1.                                                                                   | Retained as reported experience and cost, not automatically as a cause or capacity score. |
+| Forecast P1             | An optional medical predictor reports its own event endpoint and future horizon.                                                      | Retained as prediction; only a qualified use may trigger reassessment or action review.   |
+| Report R1               | A report cites A1, O1 and P1 rather than adding measurements.                                                                         | Audience projection with the same source ancestry; no new independent evidence.           |
+| Follow-up O2            | A later descent uses added support and has improved observed performance.                                                             | A new assisted-condition episode, not proof that capacity improved.                       |
+
+Identifiers are local to this hypothetical illustration, not production records or new ontology identifiers. The sufficient-evidence assumptions must be replaced by real protocols and sources in an empirical study.
+
+First, task interpretation establishes what is required in the relevant phase. Second, the assessment interpretation and alignment establish adequacy for the focal braking requirement. Third, the separate process observation and rule support an engagement problem under matching conditions. Their joint contribution is a demand-bound NORMAL / PROBLEM judgment for that capacity–task relationship. No single diagnosis, task label or video finding supplies that entire conclusion. Other unassessed capacities remain unknown.
+
+The report can now state: “Current evidence supports the braking capacity required in these conditions, while observed use of that capacity during descent remains problematic. The specific mechanism is unresolved; further work should address the actual process and competing explanations within the applicable safety limits.” This is a positive functional interpretation, not merely a refusal to infer. It does not prescribe a treatment or explain the finding by a medical diagnosis.
+
+Remove A1, or remove its valid task-alignment rule, and the adequacy claim no longer follows. O1, discomfort and assistance remain visible, but the capacity and engagement judgments remain unresolved under the contract. Retain A1 but remove the qualified interpretation of O1, and the capacity judgment remains NORMAL while engagement is NO_EVIDENCE. A missing observation does not erase unrelated supported information.
+
+When O2 shows improvement with added support, a new context is recorded. The supported change is assisted performance; it does not retrospectively prove that the first difficulty had a particular cause or that bodily capacity increased. A medical forecast remains on its own horizon. A new, applicable medical restriction would revise the permitted action set without having to turn the focal capacity judgment into PROBLEM. The same person is maintained across these different objects and updates.
+
+# 8. Time, authority and the meaning of change
+
+HFWM separates bodily change, measurement, revision of knowledge and model evolution. Observation time, retrospective window, ingestion time and inference or confirmation time have different meanings. A late-arriving assessment can support a revised account of an earlier period without moving the biological event to the upload date. The previously confirmed report remains available, linked to a subsequent correction rather than silently overwritten.\[7\]
+
+An algorithm change applied to the same stored signal can revise an estimate without establishing bodily change. Dependency declarations identify which current judgments require requalification. A compatible module replacement preserves the meaning and guarantees relied on by its consumers, while changed outputs still require review. If meaning, uncertainty, input assumptions or timing changes, the contract version and affected composition must be reconsidered.
+
+Action eligibility is distinct from choosing the most attractive action. Necessary safety, consent, authority, intended-use evidence and practical-feasibility conditions must be met. A forecast of an outcome is not automatically evidence for the effect of changing an action. Plans are not executed interventions. Common semantics likewise do not authorize unrestricted sharing of personal data: shared model governance can coexist with regional data handling and purpose-limited exchange.\[7\]
+
+A model upgrade is a further kind of change. A replacement can preserve the meaning of its output while improving precision; it can also change its input conditions, uncertainty or output construct. The former still requires review of affected downstream judgments. The latter needs an explicit contract or semantic migration rather than a silent substitution. Historical reports continue to show the source and model versions used at the time. Preserving an interface therefore does not mean freezing all future science or promising identical values for every possible input.\[7\]
+
+Governance also determines what is shared. Common model definitions and exchange rules do not imply a global repository of unrestricted personal data. Each exchange has a person, purpose, recipient and minimal necessary content. Person-level state must remain isolated even when two individuals use the same model definition. These are architecture requirements; legal compliance, security and regional deployment need their own review and are not established by the conceptual model.
