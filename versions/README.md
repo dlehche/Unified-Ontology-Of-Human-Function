@@ -14,6 +14,7 @@ This directory preserves the public version history of the Unified Ontology of H
 | **Unification in UOHF** | **1.0.2** | Focused conceptual publication / 专题概念论文 | CC BY-NC 4.0 | [English](../papers/unification/UOHF_Unification_EN_V1.0.2.md) | [中文](../papers/unification/UOHF_Unification_ZH_V1.0.2.md) | [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694) |
 | **A Formal Framework for Human Function in UOHF** | **1.0** | Focused formal/computational publication / 专题形式化与计算论文 | CC BY-NC 4.0 | [English](../papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | [中文](../papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599) |
 | **The UOHF Human Function Capacity System** | **1.0** | **Zenodo-archived focused publication / Zenodo 已归档专题出版物** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100) |
+| **Connecting Human Models Through Human Function** | **1.0** | Focused model-interoperability publication / 专题模型互操作论文 | CC BY-NC 4.0 | [English](../papers/human-model-interoperability/Human_Model_Interoperability_EN_V1.0.md) | [中文](../papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md) | [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973) |
 
 ## Governance rule / 版本治理规则
 
@@ -33,9 +34,9 @@ This directory preserves the public version history of the Unified Ontology of H
 
 ## Development history / 发展历史
 
-UOHF has progressed from an early auditable inference framework, through task-centered Functional Engagement, to the current internal-and-external-demand Definition 2.1, and then into focused publications on whole-person unification, formal mathematical architecture, and the Version 1.0 human-function capacity coordinate system.
+UOHF has progressed from an early auditable inference framework, through task-centered Functional Engagement, to the current internal-and-external-demand Definition 2.1, and then into focused publications on whole-person unification, formal mathematical architecture, the Version 1.0 human-function capacity coordinate system, and cross-model interoperability through human function.
 
-UOHF 已从早期可审计人体功能推理框架，发展到任务中心 Functional Engagement，再进入当前涵盖内部与外部需求的 Definition 2.1，并进一步形成完整人体统一、形式化数学架构和第一版人体功能能力科学坐标等专题论文。
+UOHF 已从早期可审计人体功能推理框架，发展到任务中心 Functional Engagement，再进入当前涵盖内部与外部需求的 Definition 2.1，并进一步形成完整人体统一、形式化数学架构、第一版人体功能能力科学坐标以及以人体功能连接异构人体模型的互操作专题论文。
 
 ## Historical publication outside the UOHF version sequence / 版本序列之外的历史论文
 

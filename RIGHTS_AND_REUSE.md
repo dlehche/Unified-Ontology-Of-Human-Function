@@ -14,6 +14,7 @@ Each publication is governed by the license and attribution conditions attached 
 - **Unification in the Unified Ontology of Human Function** — revision 1.0.2 — CC BY-NC 4.0 — [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 - **A Formal Framework for Human Function in UOHF** — Version 1.0 — CC BY-NC 4.0 — [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
 - **The UOHF Human Function Capacity System, Version 1.0** — CC BY-NC 4.0 — [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)
+- **Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling** — Version 1.0 — CC BY-NC 4.0 — [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
 
 The machine-readable status of each record is maintained in [`PUBLICATIONS.json`](PUBLICATIONS.json).
 

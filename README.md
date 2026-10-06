@@ -2,7 +2,7 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[Whole-Person HFWM](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[HFWM V1.0](https://zenodo.org/records/22685308)** · **[Whole-Person HFWM](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)** · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · **[Model interoperability](papers/human-model-interoperability/README.md)** · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 > **Product milestone · 2026-10-02:** **[The World’s First Human Function World Model Built on UOHF, with the Whole Person as the Persistent Modeling Object, Enters Gray Release](announcements/2026-10-02-movetips-hfwm-gray-release.en.md)** · [www.movetips.cn](https://www.movetips.cn/)
 >
@@ -52,6 +52,19 @@ The public catalogue is a versioned scientific coordinate set, not a claim of pe
 ---
 
 ## Current focused publications
+
+### Human-model interoperability through human function
+
+**Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling**
+
+This Version 1.0 focused publication proposes **human function as a common computational coordinate for interoperable whole-person models**. Medical, physiological, psychological, cognitive, movement, nutritional, behavioral, environmental, device, and AI models can retain their native meanings while contributing to a shared interpretation of the same continuing person. UOHF supplies semantic identities and governed relations; HFWM supplies person-bound coordination, evidence qualification, and longitudinal update.
+
+- **[Publication overview](papers/human-model-interoperability/README.md)**
+- **[Complete English paper](papers/human-model-interoperability/Human_Model_Interoperability_EN_V1.0.md)**
+- **[中文完整译稿](papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md)**
+- Zenodo: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
+- Publication date: **2026-10-06**
+- License: **CC BY-NC 4.0**
 
 ### The Human Function World Model
 
@@ -133,6 +146,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative overall framework |
 | **[Human Function World Model V1.0](https://zenodo.org/records/22685308)** | **Whole-person world-model framework across tasks, capacities, functional engagement, action and longitudinal change** |
+| **[Human-model interoperability V1.0](papers/human-model-interoperability/README.md)** | **Common computational coordinate for connecting heterogeneous human models around the same whole person** |
 | **[Human Function Capacity System V1.0](papers/capacity-system/README.md)** | **18 core + 104 specific capacity catalogue, definitions, sources and citation metadata** |
 | [Capacity System — English full text](papers/capacity-system/source/en/README.md) | Complete English Version 1.0 paper |
 | [人体功能能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 第一版18项核心能力与104项具体能力全文 |
@@ -156,6 +170,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 - **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
 - **The Human Function World Model / Version 1.0** — whole-person world-model preprint centered on task, demand, capacity, functional engagement, evidence, governed action, and longitudinal change. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
 - **The UOHF Human Function Capacity System / Version 1.0** — Zenodo-archived publication of the 18-core/104-specific human-function capacity catalogue. DOI: [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100).
+- **Connecting Human Models Through Human Function / Version 1.0** — focused model-interoperability preprint proposing human function as a common computational coordinate for heterogeneous whole-person models. DOI: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973).
 
 UOHF Definition 2.1 remains the current authoritative overall framework. Focused publications develop specific scientific layers under that framework and do not silently replace the root definition.
 
@@ -184,6 +199,8 @@ See [`COLLABORATION.md`](COLLABORATION.md). For research, interoperability, impl
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
 > Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
+
+> Che, Lei. *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973).
 
 > Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100).
 
