@@ -176,3 +176,83 @@ HFWM架构采用“1＋N＋递归子模型”的组织方式。“1”是一个�
 当O2显示在增加辅助后表现改善时，系统记录的是一个新的情境。得到支持的变化首先是“有辅助条件下的表现改善”；它并不能追溯性地证明第一次困难由某一种特定原因造成，也不能证明身体能力已经增加。医学预测仍保留在它自己的未来时间范围内。一个新的、适用的医学限制可以修改允许的行动集合，而无需把焦点能力判断改成PROBLEM。同一个人在这些不同对象和更新之间始终得到保持。
 
 # 8. 时间、权限与“变化”的含义
+HFWM把身体真实变化、测量、知识修订和模型演化区分开来。观察时间、回顾窗口、数据进入系统的时间以及推断或确认时间具有不同含义。迟到的评估证据可以支持我们修订对过去某一时期的解释，但不能把生物事件的发生时间移动到上传日期。此前已经确认的报告应继续保留，并链接到后续更正，而不是被静默覆盖。\[7\]
+
+同一个已存储信号，在算法发生变化后重新处理，可能导致估计结果改变，却并不能证明身体发生了变化。依赖声明用于识别哪些当前判断需要重新资格审查。兼容的模块替换应保留下游使用者所依赖的意义与保证，但输出变化仍需复核。如果意义、不确定性、输入假设或时间定义改变，则必须重新考虑契约版本以及受影响的模型组合。
+
+行动是否“有资格被执行”，与“哪一个行动看起来最有吸引力”是两回事。必要的安全、同意、权限、预期用途证据和实际可行性条件必须全部满足。对某一结局的预测，不会自动成为改变行动有效性的证据。计划并不等于已经实施的干预。共同语义也不意味着可以无限制共享个人数据：共享模型治理可以与区域化数据处理和目的限定的数据交换并存。\[7\]
+
+模型升级又是另一类变化。替换模型可能在提升精度的同时保持输出含义不变，也可能改变输入条件、不确定性或输出构念。前一种情况仍要求复核受影响的下游判断；后一种情况则需要明确的契约迁移或语义迁移，而不能静默替换。历史报告继续显示当时使用的来源版本和模型版本。因此，保持接口兼容并不意味着冻结未来科学，也不承诺所有可能输入都会得到完全相同的数值。\[7\]
+
+治理还决定什么可以被共享。共同模型定义与交换规则，并不意味着要建立一个无限制汇集个人数据的全球数据库。每一次交换都应有明确的个体、目的、接收方与最小必要内容。即使两个人使用同一个模型定义，其个体层状态也必须彼此隔离。这些是架构要求；法律合规、安全和区域部署需要单独审查，不能由概念模型本身证明。
+
+# 9. 什么才算支持该方案的证据？
+
+核心假设是：在给定相同证据的前提下，明确表示“需求—能力—调用”关系，能够比强有力的替代方案产生更有效、更有用的跨模型解释。比较不能把“更多数据”“更多专家投入”或“更复杂的文字表达”误认为架构优势。应允许具有同等表达能力的替代方案获得成功；这里要检验的是可测试的行为，而不是某种表示方式的排他所有权。
+
+评估应分别考察语义一致性、测量与构念效度、组合计算、判断与预测，以及服务结果或用户理解。V3与COSMIN提供了与测量验证有关的重要区分，但二者都不能证明整个模型网络有效。对于每一种预期用途，都必须独立规定所需证据。\[17,18\]
+
+案例标签应依据独立评估证据与明确条件进行裁决，而不能用“是否与HFWM输出一致”来定义真值。既要测试有充分依据的正向判断，也要测试合理的未知状态。值得考察的错误包括：无依据地把结论迁移到另一个任务、把辅助改善误认为能力改善、把返回的预测重复计数为独立证据，以及把算法失败误认为个体失能。在提出任何临床获益主张之前，就可以先测量测量错误与判断错误。
+
+预测研究需要在个体和时间层面进行适当隔离，并明确终点、校准与分布漂移检查。干预研究需要针对行动本身的效果提供证据，而不能只看预测准确率。模型替换研究既要考察单个模块性能，也要考察受影响的下游解释。用户评估则应询问：人们能否解释当前已知什么、仍不确定什么，以及为什么提出下一步。这些都是计划中的研究要求，并不是本文已经报告的结果。
+
+三个对比可以进一步明确研究问题。第一，把“只是把一次测试和一个任务放在一起”的记录，与“明确判断该测试是否足以支持该任务需求”的记录进行比较。第二，把一般性的表现解释，与“要求能力证据和实际过程证据彼此分开”的解释进行比较。第三，在模型或条件变化后，把无差别地重新计算一切，与基于依赖关系进行重新资格审查进行比较。一个设计良好的替代系统也可能实现这三点；如果如此，研究就应比较二者在成本和可复现性上的等价性或差异，而不是重新定义成功标准来偏向HFWM这个名称。
+
+最有力的证据应同时包含“有依据的结论”和“有依据的克制”。一个总是返回未知的系统可以避免一部分错误结论，却可能无法服务于人；一个把所有字段都填满的系统则可能掩盖没有依据的推断。因此，评估应同时统计：漏掉的有支持结论、无支持结论、被正确保留的有效部分结果，以及被准确解释的证据空缺。专家分歧和不确定的参照判断也应保持可见。源设计中的验收场景可以作为设计目标，但真正的实证研究必须提供实际输入、版本、结果和独立裁决。\[7\]
+
+# 10. 局限与结论
+
+本文规定了一个架构，并对假设性案例进行解释。它没有为每一项能力提供完成定标的规则，没有证明任意外部模型都能被整合，也没有证明比较优势。18/104能力目录、源设计要求以及个体数据是否充分，是彼此不同的成熟度主张。共同的人体功能坐标也不能替代个人价值、医疗可及性、社会机会或专业判断。
+
+该架构把领域方程、参数、测量工具和比较标准留给具备资格的具体实现。一个共同接口可以让假设变得可检查，但不能让假设因此变成真的。因此，其科学价值既取决于各组件本身是否有效，也取决于这些组件组合使用时是否有效；无论是一个目录，还是一致的数据结构，都不能单独证明这一结果。
+
+完整人建模并不需要取代专门的人体模型。它可以保留各领域模型自身的意义，同时明确显示：经资格确认的贡献如何支持同一个人的需求、能力、实际调用与变化。UOHF提供语义基础；HFWM规定协调、证据与更新职责；领域模型提供各自的科学内容。对这一拟议公共协议的评价，应取决于这些关系能否产生有效、有用且可复现的解释，而不是取决于其名称覆盖范围有多大。
+
+# 声明
+
+**研究与数据范围。本稿提出概念性或技术性架构，并使用明确标注为假设性的示例。本文未报告新的参与者数据集、已执行基准测试、临床评估或生产系统测试，也没有根据示例推断患者层级的表现或获益。本预印本不附带新的实证数据集或可执行实现。**
+
+**来源基础与可获得性。公开的UOHF/HFWM定义、形式框架、世界模型说明、能力体系材料，以及本文引用的外部标准与文献，共同构成本研究的来源基础。解释性图示与案例标识符属于稿件中的说明性内容，不是生产对象，也不能作为已经实现整合的证据。**
+
+**相关工作。本完整预印本与所引公开框架论文属于同一UOHF/HFWM研究计划。任何后续期刊版本都应标识本预印本，并向接收期刊编辑披露实质性重叠。**
+
+**生成式AI辅助。ChatGPT协助进行了来源比较、文献核查、起草、语言编辑，以及本文档与解释性图示的准备。AI生成的文字和图示不是研究证据；对公开内容承担责任的仍是署名作者。**
+
+# 参考文献
+
+1\. Laubenbacher R, Mehrad B, Shmulevich I, et al. Digital twins in medicine. *Nat Comput Sci.* 2024;4:184–191. doi:10.1038/s43588-024-00607-6.
+
+2\. Little EG, Rogova GL. Designing ontologies for higher level fusion. *Information Fusion.* 2009;10(1):70–82. doi:10.1016/j.inffus.2008.05.006.
+
+3\. Smirnov A, Levashova T, Shilov N. Patterns for context-based knowledge fusion in decision support systems. *Information Fusion.* 2015;21:114–129. doi:10.1016/j.inffus.2013.10.010.
+
+4\. Che L. UOHF Definition 2.1: Unified Ontology of Human Function. Version 2.1.1. Repository publication; 2026. doi:10.5281/zenodo.21630406. Author-maintained definition and version record: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/README.md) (accessed 6 October 2026).
+
+5\. Che L. A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support. Version 1.0. Repository preprint; 2026. doi:10.5281/zenodo.21721599. Full-text source index: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) (accessed 6 October 2026).
+
+6\. Che L. The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change. Version 1.0. Repository preprint; 2026. doi:10.5281/zenodo.22685308. Author-maintained model statement: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md) (accessed 6 October 2026).
+
+7\. Che L. Human Function World Model: Computational Architecture, Capacity Standards and Engagement Standards. Technical design manuscript. 30 September 2026.
+
+8\. Che L. The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities. Repository publication; 2026. doi:10.5281/zenodo.21975100. Catalogue overview and source index: [Public source](https://github.com/dlehche/Unified-Ontology-Of-Human-Function/blob/main/papers/capacity-system/README.md) (accessed 6 October 2026).
+
+9\. World Health Organization. Towards a Common Language for Functioning, Disability and Health: ICF. Geneva: WHO; 2002. pp. 2, 11–13. [Public source](https://cdn.who.int/media/docs/default-source/classification/icf/icfbeginnersguide.pdf) (accessed 6 October 2026).
+
+10\. CellML. CellML 2.0: Normative Specification. [Public source](https://www.cellml.org/cellml/2.0) (accessed 6 October 2026).
+
+11\. SBML. SBML Level 3 Version 1: Hierarchical Model Composition (comp) package. [Public source](https://sbml.org/documents/specifications/level-3/version-1/comp/) (accessed 6 October 2026).
+
+12\. Modelica Association. Functional Mock-up Interface Specification. Version 3.0.2. [Public source](https://fmi-standard.org/docs/3.0.2/) (accessed 6 October 2026).
+
+13\. World Wide Web Consortium. PROV-O: The PROV Ontology. W3C Recommendation. 30 April 2013. [Public source](https://www.w3.org/TR/2013/REC-prov-o-20130430/) (accessed 6 October 2026).
+
+14\. The Unified Code for Units of Measure. UCUM specification. [Public source](https://ucum.org/ucum) (accessed 6 October 2026).
+
+15\. Shahidi N, Pan M, Safaei S, et al. Hierarchical semantic composition of biosimulation models using bond graphs. *PLoS Comput Biol.* 2021;17(5):e1008859. doi:10.1371/journal.pcbi.1008859.
+
+16\. HL7 International. FHIR Release 5, version 5.0.0: RiskAssessment. [Public source](https://hl7.org/fhir/R5/riskassessment.html) (accessed 6 October 2026).
+
+17\. Goldsack JC, Coravos A, Bakker JP, et al. Verification, analytical validation, and clinical validation (V3): the foundation of determining fit-for-purpose for Biometric Monitoring Technologies (BioMeTs). *npj Digit Med.* 2020;3:55. doi:10.1038/s41746-020-0260-4.
+
+18\. COSMIN. COSMIN Taxonomy of Measurement Properties. [Public source](https://www.cosmin.nl/tools/cosmin-taxonomy-measurement-properties/) (accessed 6 October 2026).
+
