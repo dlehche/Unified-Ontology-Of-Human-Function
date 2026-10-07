@@ -69,18 +69,6 @@
       "status": "focused-publication"
     },
     {
-      "id": "human-function-world-model-v1.0",
-      "title": "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change",
-      "frameworkVersion": "1.0",
-      "publicationRevision": "1.0",
-      "publicationDate": "2026-09-10",
-      "record": "https://zenodo.org/records/22685308",
-      "doi": "10.5281/zenodo.22685308",
-      "license": "CC-BY-NC-4.0",
-      "status": "focused-publication",
-      "relationToUohf": "builds-on-uohf-definition-2.1"
-    },
-    {
       "id": "uohf-human-function-capacity-system",
       "title": "The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities",
       "frameworkVersion": "1.0",
@@ -96,23 +84,6 @@
       "repositoryReleaseDate": "2026-08-17",
       "catalogueStatus": "scholarly-snapshot",
       "runtimeReleaseStatus": "separately-governed-not-implied-by-publication"
-    },
-    {
-      "id": "human-model-interoperability-v1.0",
-      "title": "Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling",
-      "frameworkVersion": "1.0",
-      "publicationRevision": "1.0",
-      "publicationDate": "2026-10-06",
-      "record": "https://zenodo.org/records/23180973",
-      "doi": "10.5281/zenodo.23180973",
-      "license": "CC-BY-NC-4.0",
-      "status": "focused-publication",
-      "repositoryPath": "papers/human-model-interoperability/README.md",
-      "relationToUohf": "builds-on-uohf-and-hfwm",
-      "languageEditions": {
-        "en": "papers/human-model-interoperability/Human_Model_Interoperability_EN_V1.0.md",
-        "zh-CN": "papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md"
-      }
     }
   ],
   "separateHistoricalPublications": [
@@ -120,6 +91,33 @@
       "record": "https://zenodo.org/records/20711332",
       "doi": "10.5281/zenodo.20711332",
       "note": "Separate earlier Human Function publication; not the canonical publication for UOHF V1.0 and not part of the UOHF version sequence. Its own Zenodo record governs its license and reuse terms."
+    }
+  ],
+  "relatedResearchPrograms": [
+    {
+      "id": "human-function-world-model",
+      "name": "Human Function World Model",
+      "abbreviation": "HFWM",
+      "repository": "https://github.com/dlehche/Human-Function-World-Model",
+      "relationToUohf": "downstream-world-model-and-model-coordination-program",
+      "publications": [
+        {
+          "title": "The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change",
+          "version": "1.0",
+          "publicationDate": "2026-09-10",
+          "record": "https://zenodo.org/records/22685308",
+          "doi": "10.5281/zenodo.22685308",
+          "license": "CC-BY-NC-4.0"
+        },
+        {
+          "title": "Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling",
+          "version": "1.0",
+          "publicationDate": "2026-10-06",
+          "record": "https://zenodo.org/records/23180973",
+          "doi": "10.5281/zenodo.23180973",
+          "license": "CC-BY-NC-4.0"
+        }
+      ]
     }
   ]
 }

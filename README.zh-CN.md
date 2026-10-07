@@ -1,20 +1,10 @@
 # 人体功能统一本体（UOHF）
 
-## 正式英文名称：Unified Ontology of Human Function
+## 人体功能的受治理语义与计算本体
 
-[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** · **[“完整的人”模型入口](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)** · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · **[模型互操作论文](papers/human-model-interoperability/README.zh-CN.md)** · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[18项核心 + 104项具体能力](papers/capacity-system/README.zh-CN.md)** · [形式化框架](papers/formal-framework/README.zh-CN.md) · [“统一”论文](papers/unification/README.md) · [论文总览](papers/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [本体发布状态](ontology/README.md) · [权利与复用](RIGHTS_AND_REUSE.md) · **[下游 HFWM 仓库](https://github.com/dlehche/Human-Function-World-Model)**
 
-> **产品里程碑 · 2026-10-02：** [全球首个基于人体功能统一本体（UOHF）、以“完整的人”为持续建模对象的人体功能世界模型，正式灰度上线](announcements/2026-10-02-movetips-hfwm-gray-release.md) · [www.movetips.cn](https://www.movetips.cn/)
-
-## “完整的人”人体功能世界模型
-
-**核心模型身份：** 人体功能世界模型（HFWM）基于人体功能统一本体（UOHF），以**同一个“完整的人”为持续建模对象**。就医、康复、运动、营养、心理、日常生活、证据、行动、反馈与长期变化，都持续组织和更新在同一个人身上。
-
-> **“完整的人”是持续建模对象。**
-
-[进入“完整的人”人体功能世界模型专页 →](WHOLE_PERSON_HUMAN_FUNCTION_WORLD_MODEL.md)
-
-
+**正式英文名称：** Unified Ontology of Human Function  
 **正式简称：** UOHF  
 **当前权威总体框架：** UOHF Definition 2.1  
 **当前权威出版修订版本：** 2.1.1  
@@ -24,118 +14,117 @@
 **权威总体框架 DOI：** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
 **许可：** 各篇以对应出版记录为准；当前 UOHF 出版物采用 CC BY-NC 4.0
 
-> **生活不断调用身体。**
-
 > **人体功能，就是身体被正常调用的能力。**
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
 ---
 
-## 最新 UOHF 出版物：人体功能能力体系第一版
+## 本仓库负责什么
 
-### 18项核心人体功能能力 + 104项具体人体功能能力
+本仓库是**人体功能语义层与本体层**的权威公开 GitHub 入口。
 
-第一版能力体系论文把 UOHF 的人体功能能力目录作为一个**公开、可引用、可版本化的科学对象**发布：统一定义18项核心人体功能能力及其下104项具体人体功能能力，每项能力均以整个人为主体，并绑定可追溯的科学或专业来源。论文同时公开目录构建方法、关键相邻能力边界、版本规则以及明确的公开/不公开边界。
+UOHF 负责：
 
-- **[论文概览](papers/capacity-system/README.zh-CN.md)**
-- **[中文完整论文](papers/capacity-system/source/zh/README.md)**
-- **[English full paper](papers/capacity-system/source/en/README.md)**
-- Zenodo：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)
-- 许可：**CC BY-NC 4.0**
+- 人体功能根定义与范围；
+- Demand、能力、实际功能调用、证据等核心语义区分；
+- 本体对象身份、类型边界与受治理关系；
+- 公开人体功能能力坐标；
+- 人体功能形式语义与计算约束；
+- UOHF 版本历史、引用元数据和公开本体边界。
 
-第一版目录不是“人体功能已经永远穷尽”的声明，而是一套可持续修订的科学坐标。“具体能力”是便于公开阅读的总称，正式细粒度本体类型仍为相应 `CORE_CAPACITY` 下的 `SUBCAPACITY` 与 `CAPACITY_COMPONENT`。论文不公开完整任务—能力需求矩阵、解剖/生理过程实现网络、完整评估与干预映射、个体推理规则、决策权重、生产 payload 或真实用户运行数据。
+本仓库**不是 HFWM 本身的权威代码/论文仓库**。人体功能世界模型（HFWM）建立在 UOHF 语义基础之上，其世界模型架构、异构模型互操作、Functional Bridge 和 HFWM 专属治理，统一维护在独立的 [Human-Function-World-Model 仓库](https://github.com/dlehche/Human-Function-World-Model)。
 
 ---
 
-## 当前专题论文
+## 当前权威总体框架
 
-### 人体模型互操作：以人体功能作为共同计算坐标
+### UOHF Definition 2.1
 
-**通过人体功能连接人体模型：迈向完整人建模的共同计算协议**
+UOHF Definition 2.1 是当前权威总体框架，恢复人体功能对内部需求与外部需求的完整覆盖，并明确区分人体功能能力、实际发生的调用过程、观察、推断、状态与行动。
 
-Version 1.0 提出：**人体功能可以作为可互操作完整人模型的共同计算坐标**。医学、生理、心理、认知、运动、生物力学、营养、行为、环境、设备与 AI 模型不需要被压缩成同一种模型或一个总分，而可以保留各自原生含义，同时围绕同一个持续变化的人形成可追溯的解释关系。UOHF 提供语义身份与受治理关系；HFWM 提供个体绑定的模型协调、证据资格与纵向更新。
+- Zenodo：[10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
+- 出版修订：**2.1.1**
+- 许可：**CC BY-NC 4.0**
+- 中文框架正文：[UOHF_DEFINITION_ZH.md](UOHF_DEFINITION_ZH.md)
 
-- **[论文概览](papers/human-model-interoperability/README.zh-CN.md)**
-- **[中文完整译稿](papers/human-model-interoperability/Human_Model_Interoperability_ZH_V1.0.md)**
-- **[English full paper](papers/human-model-interoperability/Human_Model_Interoperability_EN_V1.0.md)**
-- Zenodo：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
-- 发布日期：**2026-10-06**
+---
+
+## 人体功能能力体系 Version 1.0
+
+### 18项核心人体功能能力 + 104项具体人体功能能力
+
+第一版能力体系论文把 UOHF 人体功能能力目录作为公开、可引用、可版本化的科学对象发布。
+
+- [论文概览](papers/capacity-system/README.zh-CN.md)
+- [中文完整论文](papers/capacity-system/source/zh/README.md)
+- [English full paper](papers/capacity-system/source/en/README.md)
+- Zenodo：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)
 - 许可：**CC BY-NC 4.0**
 
-### 人体功能世界模型
+18+104 是版本化语义坐标，不是104维可互换分数，也不是104个已经完成验证的量表。正式细粒度本体类型仍为对应 `CORE_CAPACITY` 下的 `SUBCAPACITY` 与 `CAPACITY_COMPONENT`。
 
-**通过任务、状态、行动与纵向变化对完整人体进行建模**
+---
 
-Version 1.0 提出人体功能世界模型（HFWM），用于围绕同一个人统一表示内部与外部任务、任务需求、所需能力、当前能力、实际功能调用、证据、受治理行动和长期状态变化。UOHF 提供人体功能语义基础，HFWM 在不改变人体功能根定义的前提下进一步加入显式状态、时间、行动、转移、反馈和模型更新结构。
-
-- [Zenodo：10.5281/zenodo.22685308](https://zenodo.org/records/22685308)
-- 发布日期：**2026-09-10**
-- 许可：**CC BY-NC 4.0**
+## 当前 UOHF 专题论文
 
 ### 人体功能形式化与计算框架
 
-**能力、功能调用、需求有界可实现性与证据约束决策支持**
-
-Version 1.0 建立 UOHF Definition 2.1 之下的数学和实现层形式内核，包括类型化形式对象、12条核心公理、需求有界可实现性、结果不可识别性、证据约束假设、受治理行动、动态状态更新、可证伪条件和分阶段实证研究路线。
-
-- [Zenodo：10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
+- Zenodo：[10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
 - [中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md)
-- [英文完整论文](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)
-- [论文概览](papers/formal-framework/README.zh-CN.md)
+- [English full paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)
 
 ### 人体功能统一本体中的“统一”
 
-**以人体功能及其调用为核心的完整人体概念框架**
+- Zenodo：[10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
+- [论文入口](papers/unification/README.md)
 
-这篇论文解释 UOHF 到底统一什么，为什么功能调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
+---
 
-- [Zenodo：10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
-- [中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md)
-- [英文完整全文索引](papers/unification/UOHF_Unification_EN_V1.0.2.md)
-- [论文概览](papers/unification/README.md)
+## 下游 HFWM 研究体系
+
+**Human Function World Model（HFWM）**是建立在 UOHF 之上的世界模型与模型协作研究体系。HFWM 的源文本、架构、异构模型互操作、Functional Bridge、纵向更新和 HFWM 专属治理，均以独立仓库为权威位置：
+
+**HFWM 仓库：** https://github.com/dlehche/Human-Function-World-Model
+
+当前 HFWM 相关公开论文包括：
+
+- *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change* — DOI：[10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)
+- *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling* — DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
+
+它们是 UOHF 的下游相关出版物，**不属于 UOHF 自身的版本/出版序列**。
 
 ---
 
 ## UOHF 解决什么问题
 
-医学、生理学、康复、运动科学、行为、环境和个人健康记录都在描述同一个人，但不会自动形成一个共同、连续、可计算的人体功能对象。UOHF 把**人体功能**确立为这个共同对象，用统一语义持续回答：
+UOHF 不替代医学、生理、康复、运动、心理或其他专业知识。它解决的是人体功能本身的共同语义问题：
 
-- 当前存在什么内部任务或外部任务，它产生了什么需求；
-- 当前需求需要哪些人体功能能力；
-- 这些能力当前是否存在、可用到什么程度、边界在哪里；
-- 这些已有能力在当前需求中实际上怎样被调用；
-- 当前看到、报告、测量或推断到了什么；
-- 当前代价、负担、边界、储备和恢复后果是什么；
-- 当前证据支持什么人体功能状态；
-- 允许进入什么行动，行动以后实际发生了什么变化。
+- 当前是什么内部或外部 Demand？
+- 哪些人体功能能力与之相关？
+- 能力与实际功能调用有什么区别？
+- 什么是观察、测量、报告，什么是推断？
+- 什么证据能够支持某个判断，什么仍然未知？
+- 哪些关系属于一般知识，哪些属于具体人的事实？
+- 版本、来源、权限与语义变化怎样治理？
 
-UOHF 不替代专业知识，而是让跨专业人体功能判断变得：
-
-> **可计算、可约束、可追溯、可审计、可修正、可持续更新。**
+目标是让人体功能语义做到**可计算、受约束、可追溯、可审计、可修订**。
 
 ---
 
-## 核心架构
+## 核心语义关系
 
 ```mermaid
 flowchart LR
-    T[内部或外部任务] --> D[任务需求 / Demand Specification]
-    D --> RC[所需人体功能能力]
-    RC --> FE[实际功能调用]
+    D[内部 / 外部需求] --> RC[所需人体功能能力]
+    RC --> C[能力]
+    C --> FE[实际功能调用]
     FE --> R[反应 / 表现 / 测量]
-    R --> C[代价 / 边界 / 储备 / 恢复]
-    C --> E[证据与假设]
-    E --> S[人体功能状态]
-    S --> A[受治理行动]
-    A --> CH[实际变化]
-    CH --> FB[反馈与复评]
-    FB --> S
+    R --> E[证据 / 推断]
+    E --> S[证据支持的人体功能状态]
 ```
 
-UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体功能模型（IHFM）和人体功能世界模型（HFWM）。
-
-> **受治理本体拓扑 → 人体功能引擎 → 个体长期模型 → 人体功能世界模型**
+这是一张语义组织图，不是通用生物学因果公式。
 
 ---
 
@@ -144,52 +133,20 @@ UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体
 | 内容 | 用途 |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架 |
-| **[人体功能世界模型 V1.0](https://zenodo.org/records/22685308)** | **围绕任务、能力、实际功能调用、行动与纵向变化建立完整人体世界模型** |
-| **[人体模型互操作 Version 1.0](papers/human-model-interoperability/README.zh-CN.md)** | **以人体功能作为共同计算坐标，连接同一个完整人的异构人体模型** |
-| **[人体功能能力体系第一版](papers/capacity-system/README.zh-CN.md)** | **18项核心 + 104项具体能力、统一定义、来源与引用信息** |
-| [能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 18+104 第一版全文 |
-| [Capacity System — English full text](papers/capacity-system/source/en/README.md) | English Version 1.0 full paper |
+| [人体功能能力体系第一版](papers/capacity-system/README.zh-CN.md) | 18项核心 + 104项具体能力 |
 | [人体功能形式化框架](papers/formal-framework/README.zh-CN.md) | 数学与计算形式化 |
-| [“统一”论文](papers/unification/README.md) | 完整人体概念统一 |
-| [论文总览](papers/README.md) | 全部专题出版物 |
-| [版本档案](versions/README.md) | UOHF 版本与专题论文历史 |
-| [出版映射](PUBLICATIONS.json) | 机器可读版本、DOI、日期、许可与状态 |
-| [公共机器可读本体状态](ontology/README.md) | 当前公开本体边界 |
-| [权利与复用](RIGHTS_AND_REUSE.md) | 署名、许可与商业使用边界 |
-| [研究与合作](COLLABORATION.md) | 合作方向与参与方式 |
-
----
-
-## 出版与版本关系
-
-- **UOHF V1.0 / 出版修订1.0.1**：早期本体驱动、安全约束、可审计的人体功能推理框架。DOI：[10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)。
-- **UOHF Definition 2.0 / 出版修订2.0.1**：任务中心 Functional Engagement 架构与持续回写。DOI：[10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)。
-- **UOHF Definition 2.1 / 出版修订2.1.1**：当前权威总体框架，恢复内部与外部需求的完整范围。DOI：[10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)。
-- **“统一”专题论文 / 出版修订1.0.2**：完整人体概念统一与功能调用。DOI：[10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)。
-- **人体功能形式化框架 / Version 1.0**：能力、调用、需求有界可实现性、证据约束推理和动态更新。DOI：[10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)。
-- **人体功能世界模型 / Version 1.0**：围绕任务、需求、能力、功能调用、证据、受治理行动和纵向变化建立完整人体世界模型。DOI：[10.5281/zenodo.22685308](https://zenodo.org/records/22685308)。
-- **人体功能能力体系第一版 / Version 1.0**：18项核心与104项具体人体功能能力目录的 Zenodo 正式归档出版物。DOI：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)。
-- **通过人体功能连接人体模型 / Version 1.0**：模型互操作专题预印本，提出以人体功能作为异构完整人模型的共同计算坐标。DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)。
-
-UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总体框架下进一步建立特定科学层，不会静默替代根定义。
+| [“统一”论文](papers/unification/README.md) | 完整人层级的人体功能概念统一 |
+| [论文总览](papers/README.md) | UOHF 专题出版物 |
+| [版本档案](versions/README.md) | UOHF 公开框架与专题论文历史 |
+| [出版映射](PUBLICATIONS.json) | 机器可读 UOHF 出版元数据 |
+| [本体发布状态](ontology/README.md) | 当前公开机器可读本体边界 |
+| [HFWM 仓库](https://github.com/dlehche/Human-Function-World-Model) | 下游完整人世界模型与模型互操作研究 |
 
 ---
 
 ## 当前边界
 
-当前受治理实现已经支持概念域、稳定标识符、类型化关系、关系合同、证据结构、权限约束、生命周期治理、任务中心状态收束、行动语义、执行反馈、复评与长期监控。
-
-这里描述的是基础设施能力，**不表示104项细粒度能力已经全部完成生产生命周期激活、任务/结构/评估/干预关系端点覆盖或Runtime发布**。学术目录公开与生产发布必须分开治理。
-
-完整生产本体、关系拓扑、运行规则和业务数据资产不会全部公开复制到本仓库。UOHF 当前不宣称已完成 BFO 全面符合、完整 OWL 公理化、通用生理状态分类、外部专家共识、临床结局验证、分子到整个人统一仿真或自动诊断/自动治疗。
-
----
-
-## 研究与合作
-
-当前重点合作方向包括本体工程、完整人体与多尺度生理建模、人体功能参考体系、康复与运动科学、长期状态建模、可审计健康 AI、语义互操作、人体功能能力测量，以及任务—评估—行动—反馈—复评系统。
-
-见 [`COLLABORATION.md`](COLLABORATION.md)。研究、互操作、工程实施或机构合作：**dlehche@gmail.com**
+进入公开目录不表示全部对象已经完成生产生命周期激活、全部关系端点覆盖、评估/干预映射或 Runtime 发布。完整生产本体、关系拓扑、运行规则和真实业务数据不会因为学术论文公开而自动全部开放。
 
 ---
 
@@ -197,13 +154,7 @@ UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
-> Che, Lei. *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.22685308](https://zenodo.org/records/22685308).
-
-> Che, Lei. *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)。
-
-> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)。
-
-各篇独立引用元数据维护在对应论文目录中。仓库总体引用信息仍维护在 [`CITATION.cff`](CITATION.cff)。
+各篇专题论文的引用元数据维护在对应论文目录中。仓库总体引用信息见 [CITATION.cff](CITATION.cff)。
 
 ---
 
@@ -211,4 +162,4 @@ UOHF Definition 2.1 仍是当前权威总体框架。专题论文用于在该总
 
 **著作权 © 2026 车雷与木梯科技（北京）有限公司。**
 
-当前 UOHF 出版物采用 **CC BY-NC 4.0**。允许按照许可证条款进行学术引用和非商业复用；商业使用出版物中受著作权保护的内容，在需要著作权许可的情况下须另行取得许可。仓库总体说明见 [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md)。
+当前 UOHF 出版物采用 **CC BY-NC 4.0**。允许按许可进行学术引用和非商业复用；需要著作权许可的商业使用须另行取得许可。详见 [RIGHTS_AND_REUSE.md](RIGHTS_AND_REUSE.md)。
