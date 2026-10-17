@@ -15,7 +15,7 @@ Human function is the body's capacity to be appropriately engaged to meet intern
 - UOHF Definition 2.1: https://doi.org/10.5281/zenodo.21630406
 - A Formal Framework for Human Function in UOHF: https://doi.org/10.5281/zenodo.21721599
 - Unification in UOHF: https://doi.org/10.5281/zenodo.21635694
-- Human Function Capacity System V1.0: https://doi.org/10.5281/zenodo.21975100
+- Human Function Capacity System V1.0 (DOI registered; Zenodo record published): https://doi.org/10.5281/zenodo.21975100
 
 ## Repository scope
 
