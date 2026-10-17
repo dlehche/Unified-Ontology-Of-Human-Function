@@ -60,6 +60,7 @@ The Version 1.0 capacity-system publication makes the UOHF human-function capaci
 - [Complete English paper](papers/capacity-system/source/en/README.md)
 - [中文完整论文](papers/capacity-system/source/zh/README.md)
 - Zenodo: [10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)
+- DOI and archive status: **registered / published** (see [PUBLICATIONS.json](PUBLICATIONS.json)).
 - License: **CC BY-NC 4.0**
 
 The public catalogue is a versioned semantic coordinate set, not a claim of permanent exhaustiveness and not a 104-dimensional interchangeable score vector. The formal fine-grained ontology types remain `SUBCAPACITY` and `CAPACITY_COMPONENT` under their respective `CORE_CAPACITY`.
