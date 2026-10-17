@@ -60,6 +60,7 @@ UOHF Definition 2.1 是当前权威总体框架，恢复人体功能对内部需
 - [中文完整论文](papers/capacity-system/source/zh/README.md)
 - [English full paper](papers/capacity-system/source/en/README.md)
 - Zenodo：[10.5281/zenodo.21975100](https://doi.org/10.5281/zenodo.21975100)
+- DOI 与归档状态：**已注册 / 已发布**（参见 [PUBLICATIONS.json](PUBLICATIONS.json)）。
 - 许可：**CC BY-NC 4.0**
 
 18+104 是版本化语义坐标，不是104维可互换分数，也不是104个已经完成验证的量表。正式细粒度本体类型仍为对应 `CORE_CAPACITY` 下的 `SUBCAPACITY` 与 `CAPACITY_COMPONENT`。
