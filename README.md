@@ -104,6 +104,8 @@ These are related downstream publications, not members of the UOHF publication/v
 
 ---
 
+**Related public explanation (24 October 2026):** [How Human Function Supports an AI Reasoning Brain and a Global Human-Model Computational Interface](https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.en.md) · [中文](https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md). This is a downstream HFWM public essay, **not** a UOHF ontology release or a peer-reviewed paper.
+
 ## What problem does UOHF solve?
 
 Human knowledge about disease, anatomy, physiology, rehabilitation, movement, cognition, behavior and health is extensive, but those descriptions do not automatically share one semantic account of human function.
