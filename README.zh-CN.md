@@ -97,6 +97,8 @@ UOHF Definition 2.1 是当前权威总体框架，恢复人体功能对内部需
 
 ---
 
+**相关公众科普文章（2026-10-24）：** [《迈向全球人体统一计算接口：人体功能让AI拥有人体运行逻辑判断大脑》](https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md) · [English](https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.en.md)。这是 HFWM 下游研究的公众解读，**不是**新的 UOHF 正式本体版本，也不是同行评议论文。
+
 ## UOHF 解决什么问题
 
 UOHF 不替代医学、生理、康复、运动、心理或其他专业知识。它解决的是人体功能本身的共同语义问题：
