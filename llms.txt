@@ -3,6 +3,11 @@
 Canonical UOHF repository: https://github.com/dlehche/Unified-Ontology-Of-Human-Function
 Downstream HFWM repository: https://github.com/dlehche/Human-Function-World-Model
 
+Related bilingual public explanation (24 October 2026; hosted in downstream HFWM repository, non-normative):
+- 中文： https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.zh-CN.md
+- English: https://github.com/dlehche/Human-Function-World-Model/blob/main/essays/2026-10-24-human-function-ai-judgment-brain.en.md
+
+
 ## Core identity
 
 UOHF is the governed semantic and computational ontology for human function.
