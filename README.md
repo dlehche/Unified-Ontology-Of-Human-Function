@@ -99,6 +99,7 @@ Current HFWM publications include:
 
 - *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change* — DOI: [10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)
 - *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling* — DOI: [10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
+- *Seven Foundational Challenges of Whole-Person Computation: Solutions Proposed by the Human Function World Model* — HFWM-focused R8 theoretical methods preprint; [English full text](https://github.com/dlehche/Human-Function-World-Model/blob/main/papers/seven-foundational-challenges/SEVEN_CHALLENGES_EN.md), [中文完整论文](https://github.com/dlehche/Human-Function-World-Model/blob/main/papers/seven-foundational-challenges/SEVEN_CHALLENGES_ZH.md), [author-linked Zenodo record](https://zenodo.org/records/24222488). Not an UOHF ontology version or independently validated human-model result.
 
 These are related downstream publications, not members of the UOHF publication/version sequence.
 

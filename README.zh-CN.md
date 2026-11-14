@@ -92,6 +92,7 @@ UOHF Definition 2.1 是当前权威总体框架，恢复人体功能对内部需
 
 - *The Human Function World Model: Modeling the Whole Person Through Human Function Across Tasks, States, Actions, and Longitudinal Change* — DOI：[10.5281/zenodo.22685308](https://doi.org/10.5281/zenodo.22685308)
 - *Connecting Human Models Through Human Function: Toward a Common Computational Protocol for Whole-Person Modeling* — DOI：[10.5281/zenodo.23180973](https://doi.org/10.5281/zenodo.23180973)
+- *《完整人计算的七项核心科学难题与人体功能世界模型的解决方法》* — HFWM 专题 R8 理论方法预印本；[中文完整论文](https://github.com/dlehche/Human-Function-World-Model/blob/main/papers/seven-foundational-challenges/SEVEN_CHALLENGES_ZH.md)、[英文全文](https://github.com/dlehche/Human-Function-World-Model/blob/main/papers/seven-foundational-challenges/SEVEN_CHALLENGES_EN.md)、[作者提供的 Zenodo 记录](https://zenodo.org/records/24222488)。不是新的 UOHF 本体版本，也不是已完成的人体实证验证。
 
 它们是 UOHF 的下游相关出版物，**不属于 UOHF 自身的版本/出版序列**。
 
